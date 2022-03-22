@@ -1,4 +1,7 @@
 ### Hi There 👋
+[Linkedin](https://www.linkedin.com/in/varsha-prasad/)
+[Gmail](mailto:varshaprasad0601@gmail.com)
+
 I'm Varsha Prasad, a grade 11 student. In recent years I've worked on Brain-Computer Interfaces and web developement. I've had an internship at the BioRobotics Lab at UC Irvine where I used C# and MATLAB to do data analysis on EEG to find the correlation of proprioception and EEG data. I’m currently working on improving my web dev skills with my personal website and ML skills with small proejcts with tensorflow.
 
 ### Recent Projects
