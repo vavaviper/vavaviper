@@ -3,5 +3,7 @@ I'm Varsha Prasad, a grade 11 student. In recent years I've worked on Brain-Comp
 
 ### Recent Projects
 [Mind-Controlled Gaming System](https://www.notion.so/Playing-Geometry-Dash-with-my-Brain-578582d23a3642fdaffb5b0b5d0e14ac)
+
 [Creating a Neurofeedback Program to Enhance Meditation](https://www.notion.so/varshaprasad/Creating-a-Neurofeedback-App-to-Enhance-Meditation-76d121cc32d643e986c4518c7ccee553)
+
 [How BCIs can help with Anger Management](https://varshaprasad.notion.site/How-BCIs-can-help-with-Anger-Management-16fb930b23074ce3b78af8d831547224)
