@@ -7,9 +7,7 @@ I’m a **20-year-old Machine Learning Engineer** based in **Toronto**, currentl
 
 I love building systems that combine **backend development** and **machine learning**, turning complex data and models into scalable, real-world solutions. Currently, I work at **RBC**, developing ML pipelines, APIs, and GenAI monitoring tools to make financial systems smarter.  
 
-Previously, I built **VR simulations for speech therapy**, worked on **neural networks from scratch**, and created full-stack applications and games.  
-
-💡 Always excited to **learn, build, and collaborate** on projects that push boundaries and make an impact.
+Previously, I built **VR simulations for speech therapy**, worked on **neural networks from scratch**, and created full-stack applications and games. Always excited to **learn, build, and collaborate** on projects that push boundaries and make an impact.
 
 ## 🛠 Skills & Tools
 **Languages:** Python, JavaScript, React, C#, Unity, SQL, R, MATLAB, MySQL  
