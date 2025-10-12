@@ -1,9 +1,34 @@
 ### Hi There 👋
-[Website](https://varshaprasad.com/)
-
 [Linkedin](https://www.linkedin.com/in/varsha-prasad/)
 
 [Gmail](mailto:varshaprasad0601@gmail.com)
 
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/varshaprasad0601)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varshaprasad0601)  
 
-Hi! I’m Varsha Prasad, a 19-year-old Software Developer based around Toronto. I recently worked at a VR speech therapy company, where I utilized Unity to create immersive simulations. My passion for technology extends across various fields, including Artificial Intelligence, Human-Computer Interaction, and consulting. I'm always excited to connect, collaborate, and explore new ideas, so feel free to reach out!
+
+# Hi, I'm Varsha Prasad 👋
+
+I’m a **20-year-old Machine Learning Engineer** based in **Toronto**, currently pursuing **Management Engineering (AI Option)** at **University of Waterloo**.  
+
+I love building systems that combine **backend development** and **machine learning**, turning complex data and models into scalable, real-world solutions. Currently, I work at **RBC**, developing ML pipelines, APIs, and GenAI monitoring tools to make financial systems smarter.  
+
+Previously, I built **VR simulations for speech therapy**, worked on **neural networks from scratch**, and created full-stack applications and games.  
+
+💡 Always excited to **learn, build, and collaborate** on projects that push boundaries and make an impact.
+
+---
+
+## 🛠 Skills & Tools
+**Languages:** Python, JavaScript, React, C#, Unity, SQL, R, MATLAB, MySQL  
+**Frameworks & Tools:** FastAPI, Node.js, Express, MongoDB, Pandas, NumPy, TensorFlow, Keras, Docker, Kubernetes, GitHub Actions, Firebase  
+**Areas of Interest:** Machine Learning, Backend Development, Human-Computer Interaction, GenAI, Full-Stack Development
+
+---
+
+## ⚡ Highlights
+- Built ML pipelines and production APIs at **RBC**, saving ~$5M/year in projected risk costs  
+- Created immersive **VR therapy simulations** in Unity with custom finite state machines  
+- Developed **full-stack apps and dashboards** for both research and commercial projects  
+- Built a **neural network from scratch** achieving 96.7% accuracy on MNIST
