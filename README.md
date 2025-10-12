@@ -1,14 +1,9 @@
-### Hi There 👋
-[Linkedin](https://www.linkedin.com/in/varsha-prasad/)
-
-[Gmail](mailto:varshaprasad0601@gmail.com)
+# Hi, I'm Varsha Prasad 👋
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/varshaprasad0601)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varshaprasad0601)  
 
-
-# Hi, I'm Varsha Prasad 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varsha-prasad/)  
+[![Gmail](https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshaprasad0601@gmail.com)
 
 I’m a **20-year-old Machine Learning Engineer** based in **Toronto**, currently pursuing **Management Engineering (AI Option)** at **University of Waterloo**.  
 
