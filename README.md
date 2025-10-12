@@ -1,7 +1,5 @@
 # Hi, I'm Varsha Prasad 👋
 
-## 📫 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varsha-prasad/)  
 [![Gmail](https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshaprasad0601@gmail.com)
 
@@ -13,14 +11,10 @@ Previously, I built **VR simulations for speech therapy**, worked on **neural ne
 
 💡 Always excited to **learn, build, and collaborate** on projects that push boundaries and make an impact.
 
----
-
 ## 🛠 Skills & Tools
 **Languages:** Python, JavaScript, React, C#, Unity, SQL, R, MATLAB, MySQL  
 **Frameworks & Tools:** FastAPI, Node.js, Express, MongoDB, Pandas, NumPy, TensorFlow, Keras, Docker, Kubernetes, GitHub Actions, Firebase  
 **Areas of Interest:** Machine Learning, Backend Development, Human-Computer Interaction, GenAI, Full-Stack Development
-
----
 
 ## ⚡ Highlights
 - Built ML pipelines and production APIs at **RBC**, saving ~$5M/year in projected risk costs  
