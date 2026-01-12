@@ -5,7 +5,7 @@
 
 I’m a **Machine Learning Engineer** based in **Toronto**, currently pursuing **Management Engineering (AI Option)** at **University of Waterloo**.  
 
-I love building systems that combine **backend development** and **machine learning**, turning complex data and models into scalable, real-world solutions. Recently, I work at **RBC**, developing ML pipelines, APIs, and GenAI monitoring tools to make financial systems smarter.  
+I love building systems that combine **backend development** and **machine learning**, turning complex data and models into scalable, real-world solutions. Recently, I worked at **RBC**, developing ML pipelines, APIs, and GenAI monitoring tools to make financial systems smarter.  
 
 Previously, I built **VR simulations for speech therapy**, worked on **neural networks from scratch**, and created full-stack applications and games. Always excited to **learn, build, and collaborate** on projects that push boundaries and make an impact.
 
