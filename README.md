@@ -3,6 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varsha-prasad/)  
 [![Gmail](https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshaprasad0601@gmail.com)
 
+Checkout my personal website(use simple mode if you're not on a laptop): https://varshaprasad.com/
+
 I’m a **Machine Learning Engineer** based in **Toronto**, currently pursuing **Management Engineering (AI Option)** at **University of Waterloo**.  
 
 I love building systems that combine **backend development** and **machine learning**, turning complex data and models into scalable, real-world solutions. Recently, I worked at **RBC**, developing ML pipelines, APIs, and GenAI monitoring tools to make financial systems smarter.  
